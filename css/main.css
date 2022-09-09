@@ -1,0 +1,41 @@
+/* Virables */
+
+*{
+  box-sizing: border-box;
+}
+
+
+body{
+  background-color: #ffa600;
+  font-family: "Ubuntu", sans-serif;
+}
+.wrapper{
+  /* display: flex;
+  justify-content: space-between; */
+  /* border: solid 2px white; */
+  -webkit-border-radius: 45px;
+  -moz-border-radius: 45px;
+  border-radius: 45px;
+  box-shadow: -23px 17px 121px 59px rgba(184,242,0,0.72);
+  -webkit-box-shadow: -23px 17px 121px 59px rgba(184,242,0,0.72);
+  -moz-box-shadow: -23px 17px 121px 59px rgba(184,242,0,0.72);
+  align-items: center;
+  width: 400px;
+  height: 230px;
+  text-align: center;
+  margin-left: 480px;
+  margin-top: 150px;
+
+}
+
+button{
+  width: 70px;
+  height: 40px;
+  margin: 15px;
+  border: #ffa600;
+  -webkit-border-radius: 15px;
+  -moz-border-radius: 15px;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 20px;
+}
